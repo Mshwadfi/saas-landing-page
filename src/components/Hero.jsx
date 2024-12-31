@@ -26,7 +26,7 @@ const Hero = () => {
         </div>
         <div className="mt-8 sm:mt-0 sm:ml-8 flex-shrink-0">
           <img 
-            src="/public/images/hero.png" 
+            src="/images/hero.png" 
             alt="hero" 
             className="w-full sm:max-w-sm md:max-w-md lg:max-w-lg rounded-lg shadow-lg"
           />

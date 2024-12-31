@@ -11,7 +11,7 @@ const Header = () => {
                 <li>pricing</li>
             </Link>
             <li>
-                <img src='/public/images/xora.svg' alt='logo' />
+                <img src='/images/xora.svg' alt='logo' />
             </li>
             <Link to={''}>
                 <li>faq</li>
